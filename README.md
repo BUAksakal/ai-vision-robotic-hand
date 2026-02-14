@@ -26,11 +26,9 @@ The robotic hand was fully 3D-printed and controlled via Arduino-driven servo mo
 ### 🎥 Real-Time Detection Demo
 The system performs end-to-end real-time processing, from perception to robotic actuation.
 
-![Demo](
-
 https://github.com/user-attachments/assets/a303b61d-2563-4fac-adb6-9d53a5245386
 
-)
+
 
 ---
 
