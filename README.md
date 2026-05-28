@@ -71,8 +71,3 @@ Developed as a **Bachelor’s Final Thesis** in Electrical and Electronics Engin
 
 ---
 
-## 👨‍💻 Author
-
-**Berke Uğur Aksakal**  
-AI Engineering Master’s Student  
-Deggendorf Institute of Technology
